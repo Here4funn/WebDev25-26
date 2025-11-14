@@ -33,7 +33,7 @@ nav a:hover {
 /* Challenge 11: Make the font size bigger and the color of the text to blue for elements with a class of "main" */
 .main {
   font-size: large; /* You can also use pixel values like 20px, or relative values like 1.5em or 150% */
-  color: wheat; /* You can also use a hex code like #0000ff */
+  color: blue; /* You can also use a hex code like #0000ff */
 }
 
 
